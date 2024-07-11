@@ -34,4 +34,5 @@
 #XCode
 *.pbxproj
 *.xcodeproj
+MarketDataProcessing.xcodeproj
 
